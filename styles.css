@@ -1,0 +1,32 @@
+.body {
+    background-image: linear-gradient(to bottom right, rgb(109, 71, 31), rgb(1, 73, 101));
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+}
+
+.bodyt {
+    background-image: linear-gradient(to bottom right, rgb(109, 71, 31), rgb(1, 73, 101));
+    width: auto;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+
+.homel {
+    background-color:#088ff7;
+    color: white;
+    text-align: center;
+}
+
+.topnav {
+    width: auto;
+    height: 100px;
+}
+
+.fcl {
+    background-color:#088ff7;
+    width: 150px;
+    margin-left: 150px;
+    color: white;
+    text-align: center;
+}
